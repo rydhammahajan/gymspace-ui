@@ -40,7 +40,6 @@ GymSpace-UI/
 ├── index.html # Main HTML structure
 └── README.md # Project overview and documentation
 
----
 
 ## 🚀 Getting Started
 
@@ -50,14 +49,18 @@ To view and run the project locally:
 
 ```bash
 git clone https://github.com/your-username/GymSpace-UI.git
-Navigate into the project:
+
+2. **Navigate into the project:**
+
 cd GymSpace-UI
 
 Open index.html in your browser.
 
 💡 No dependencies or build steps needed — everything runs directly in the browser.
 
-🔄 Future Improvements
+---
+
+## 🔄 Future Improvements
 Add animation to hero section text
 
 Form validation and backend integration
