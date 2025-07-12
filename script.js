@@ -21,8 +21,8 @@ hamburgerIcon.addEventListener("click" , ()=>{
     hamburgerIcon.classList.remove("visible");
 })
 crossIcon.addEventListener("click" , ()=>{
-    sideBar.classList.toggle("visible") ; 
-    crossIcon.classList.toggle("visible") ; 
+    sideBar.classList.remove("visible") ; 
+    crossIcon.classList.remove("visible") ; 
     hamburgerIcon.classList.add("visible");
 })
 
