@@ -45,26 +45,15 @@ GymSpace-UI/
 
 To view and run the project locally:
 
-1. **Clone the repository:**
+**Clone the repository:**
 
 ```bash
 git clone https://github.com/your-username/GymSpace-UI.git
 
-2. **Navigate into the project:**
+**Navigate into the project:**
 
 cd GymSpace-UI
 
 Open index.html in your browser.
 
 💡 No dependencies or build steps needed — everything runs directly in the browser.
-
----
-
-## 🔄 Future Improvements
-Add animation to hero section text
-
-Form validation and backend integration
-
-Convert to a React-based UI
-
-Dark/Light mode toggle
